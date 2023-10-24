@@ -1,0 +1,6 @@
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\bin\Debug\MindBoxTestLibrary.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\bin\Debug\MindBoxTestLibrary.pdb
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\obj\Debug\MindBoxTestLibrary.csproj.AssemblyReference.cache
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\obj\Debug\MindBoxTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\obj\Debug\MindBoxTestLibrary.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxTestLibrary\obj\Debug\MindBoxTestLibrary.pdb

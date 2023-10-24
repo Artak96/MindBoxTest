@@ -1,0 +1,17 @@
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\MindBoxUnitTest.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\MindBoxUnitTest.pdb
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\MindBoxTestLibrary.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\MindBoxTestLibrary.pdb
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\obj\Debug\MindBoxUnitTest.csproj.AssemblyReference.cache
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\obj\Debug\MindBoxUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\obj\Debug\MindBoxUnitTest.csproj.CopyComplete
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\obj\Debug\MindBoxUnitTest.dll
+C:\Users\artam\source\repos\MindBoxTestLibrary\MindBoxUnitTest\obj\Debug\MindBoxUnitTest.pdb
